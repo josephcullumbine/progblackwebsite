@@ -4,7 +4,17 @@
     align-items: center;      
     height: 100vh;             
 }
-  
+
+#main-image {
+    width: 400px;
+    height: 400px;
+    float: right;
+}
+
+.more-padding {
+    padding-left: 100px;
+}
+
 .quiz-container {
     background: #fff;
     padding: 20px;
